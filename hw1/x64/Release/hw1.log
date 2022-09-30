@@ -1,0 +1,50 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中繼目錄 (x64\Release\) 包含從其他專案 (hw3.vcxproj, hw4.vcxproj, hw5.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  MyForm.cpp
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1344,15): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1345,49): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1346,51): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1349,15): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1350,49): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1351,51): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1493,44): warning C4244: '=': 將 'float' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1494,44): warning C4244: '=': 將 'float' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1495,44): warning C4244: '=': 將 'float' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1550,23): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1551,21): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1573,15): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1574,15): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1575,13): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1594,15): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1595,15): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1596,13): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1636,23): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1637,21): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1660,10): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1661,10): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1731,16): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1732,16): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1734,19): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1735,19): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1746,16): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1747,16): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1749,19): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1750,19): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1788,23): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1789,21): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1844,16): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1861,23): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(1862,21): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(2048,13): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(2052,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(2053,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(2054,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(2071,55): warning C4244: '=': 將 'float' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(2125,15): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(2126,23): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(2133,13): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(2205,15): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(2216,13): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(3354,1): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(3357,1): warning C4244: '*=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+H:\電腦視覺實務\20220315\HW6\hw6\hw1\MyForm.h(3387,1): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  hw1.vcxproj -> H:\電腦視覺實務\20220315\HW6\hw6\x64\Release\hw6.exe

@@ -1,0 +1,8 @@
+D:\影像處理\20211026\HW1\hw1\hw1\Release\hw1.MyForm.resources
+D:\影像處理\20211026\HW1\hw1\hw1\Release\hw1.vcxproj.GenerateResource.cache
+D:\影像處理\20211026\HW1\hw1\hw1\Release\hw1.vcxprojAssemblyReference.cache
+H:\影像處理\20211026\HW1\hw1\hw1\Release\hw1.vcxprojAssemblyReference.cache
+H:\影像處理\20211026\HW1\hw1\hw1\Release\hw1.MyForm.resources
+H:\影像處理\20211026\HW1\hw1\hw1\Release\hw1.vcxproj.GenerateResource.cache
+H:\影像處理\20211109\HW2\hw2\hw1\Release\hw2.MyForm.resources
+H:\影像處理\20211109\HW2\hw2\hw1\Release\hw1.vcxproj.GenerateResource.cache
